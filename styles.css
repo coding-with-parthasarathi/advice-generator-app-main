@@ -112,9 +112,4 @@ body{
     #btn{
         top:250px;
     }
-    #btn:hover{
-        color: hsl(150, 100%, 66%);
-        box-shadow: 0px 0px 30px hsl(150, 100%, 66%);
-        transition: all ease-in-out 0.3s;
-    }
 }  
